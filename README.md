@@ -1,4 +1,3 @@
-docker build -t aisera:0.1 .
 
 #### Scripts for deploying Aisera Fun Project
 
