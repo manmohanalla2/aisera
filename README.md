@@ -34,7 +34,7 @@ Run:
 
 	CURL Command:
 
-	```curl -X GET 'http://18.224.24.183/api/v1.0/parallel?url=http%3A%2F%2Fwww.gutenberg.org%2Ffiles%2F15%2Ftext%2F' \
+	```curl -X GET 'http://18.191.151.205/api/v1.0/parallel?url=http%3A%2F%2Fwww.gutenberg.org%2Ffiles%2F15%2Ftext%2F' \
 		  -H 'cache-control: no-cache'```
 
 	Return Value:
@@ -59,7 +59,7 @@ Run:
 
 	CURL Command:
 
-	```curl -X GET 'http://18.224.24.183/api/v1.0/sequential?url=http%3A%2F%2Fwww.gutenberg.org%2Ffiles%2F15%2Ftext%2Fmoby-000.txt' \
+	```curl -X GET 'http://18.191.151.205/api/v1.0/sequential?url=http%3A%2F%2Fwww.gutenberg.org%2Ffiles%2F15%2Ftext%2Fmoby-000.txt' \
   		-H 'cache-control: no-cache'```
 
 	Return Value:
